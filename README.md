@@ -1,4 +1,5 @@
-##Website practice
+## Website practice ##
+
 ------------------
 
   In this project, I'll be following The Odin Project's instructions to build a
@@ -9,3 +10,6 @@
   As part of the practice project, I will be writing and committing messages to
   the project in order to more about the git commit -m command. I will be
   updating the README.md as I follow along with the instructions I receive. 
+
+  I am also learning about markdown syntax during this **practice** because of
+  the strong sentiment towards having good commit messages.
