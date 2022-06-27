@@ -11,5 +11,5 @@
   the project in order to more about the git commit -m command. I will be
   updating the README.md as I follow along with the instructions I receive. 
 
-  I am also learning about markdown syntax during this **practice** because of
-  the strong sentiment towards having good commit messages.
+  I am also learning about markdown syntax during this **practice** for better
+  documentation.
